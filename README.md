@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JJUAREZZ
-- 👀 Web Development
-- 🌱 ReactJS and NodeJS
-- 💞️ Web projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning ReactJS and NodeJS
+- 💞️ I’m looking to collaborate on web projects
 - 📫 joacojuarez1@gmail.com
 
 <!---
